@@ -32,7 +32,7 @@ python-data-analytics-assignments/
   - Regression model to predict chlorophyll concentration  
 - **Result:** Achieved **MAE ≈ 0.2497** for chlorophyll prediction  
 
-📌 Notebook: [`Module5/coral_reef_analysis.ipynb`](`Module-5 Analyzing Chlorophyll levels in Australian Coral Reefs/C3M5_Assignment.ipynb`)  
+📌 Notebook: [`Module5/coral_reef_analysis.ipynb`](Module-5%20Analyzing%20Chlorophyll%20levels%20in%20Australian%20Coral%20Reefs/C3M5_Assignment.ipynb)
 
 ---
 
