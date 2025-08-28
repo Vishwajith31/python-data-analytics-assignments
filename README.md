@@ -1,54 +1,49 @@
-# 🧪 Graded Assignment Code
+# 📊 Python for Data Analytics – Assignments  
 
-## Overview
-This repository contains my solutions to the graded assignments from the Python for Data Analytics course by DeepLearning.AI.
-Each assignment involves solving real-world problems using Python, data analysis, modeling, and visualization techniques.
+This repository contains my solutions and practice notebooks from the **DeepLearning.AI – Data Analytics with Python** course.  
+Each module covers different aspects of **data preprocessing, analysis, visualisation, and machine learning**.  
 
-## Work in Progress: More assignments will be uploaded as I complete each module.
+---
 
-## Overview
-This repository contains the graded assignments from the Python for Data Analytics course by DeepLearning.AI.
-Assignments focus on applying skills to real datasets — analyzing, visualizing, and building predictive models.
+## 📂 Repository Structure  
 
-## Key Projects
-### Module 1: Retail Sales Analysis
-- Analyze sales data for insights.
+```bash
+python-data-analytics-assignments/
+│
+├── Module1/ # Intro to Python for Data Analytics
+├── Module2/ # Data Wrangling & Cleaning
+├── Module3/ # Data Visualization
+├── Module4/ # Regression & Basic ML
+├── Module5/ # Time-Series Analysis (Coral Reef Project)
+└── README.md # Documentation
+```
 
-- Perform grouping, filtering, and aggregations.
 
-### Module 2: Retail Sales Expansion
-- Deeper analysis for business expansion opportunities.
+---
 
-### Module 3: Environmental Data Exploration
-- Analyzing Australia's coral reef environmental patterns.
+## 🌊 Highlighted Project – Module 5: Coral Reef Chlorophyll Analysis  
 
-##3 Module 4: CO₂ Emissions Analysis
-- Predicting CO₂ emissions with linear regression.
+- **Dataset:** IMOS (Integrated Marine Observing System) coastal reef data  
+- **Goal:** Analyze chlorophyll & turbidity time-series to study water quality trends  
+- **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn  
+- **Steps:**  
+  - Data preprocessing & cleaning  
+  - Time-series trend visualisation (rolling averages, percent change)  
+  - Regression model to predict chlorophyll concentration  
+- **Result:** Achieved **MAE ≈ 0.2497** for chlorophyll prediction  
 
-### Module 5: Time Series Forecasting
-- Analyzing chlorophyll levels in Australian coral reefs using time series regression.
+📌 Notebook: [`Module5/coral_reef_analysis.ipynb`](Module5/coral_reef_analysis.ipynb)  
 
-## Tools and Libraries
-- Python: Programming.
+---
 
-- pandas: DataFrame operations.
+## 🛠️ Tech Stack  
+- **Python**  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Environment:** Jupyter Notebook  
 
-- matplotlib and Seaborn: Visualization.
+---
 
-- scikit-learn: Machine learning models.
-
-- statsmodels: Hypothesis testing and regression.
-
-## Key Techniques
-- Data Manipulation: Cleaning and analyzing structured data.
-
-- Statistical Analysis: t-tests, regressions.
-
-- Model Evaluation: Using metrics like R-squared, MSE, and MAPE.
-
-## ✨ Final Notes
-- This project documents my learning journey through the DeepLearning.AI Python for Data Analytics course.
-
-- README files and project details will continue to evolve as I progress.
-
-- Feel free to explore, suggest improvements, or provide feedback!
+## 📎 Author  
+👤 **Vishwajith Somarampet**  
+- [GitHub](https://github.com/Vishwajith31)  
+- [LinkedIn](https://linkedin.com/in/vishwajithsoma31)  
